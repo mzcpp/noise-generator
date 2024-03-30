@@ -2,9 +2,10 @@
 Noise generator with visualisation written using SDL2 library.
 
 Controls:
-  - '1' to generate White Noise
-  - '2' to generate 1D Perlin Noise
-  - SHIFT + '2' to generate 2D Perlin Noise
+  - '1' to generate White noise.
+  - '2' to generate 1D Perlin noise.
+  - SHIFT + '2' to generate 2D Perlin noise.
+  - '3' to generate 2D Worley noise.
 
 Sources:
   - https://adrianb.io/2014/08/09/perlinnoise.html
