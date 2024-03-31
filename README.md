@@ -8,6 +8,7 @@ Controls:
   - '3' to generate 2D Worley noise.
   - '4' to generate 1D Value noise.
   - SHIFT + '4' to generate 2D Value noise.
+  - 'r' to clear screen.
 
 Sources:
   - https://adrianb.io/2014/08/09/perlinnoise.html
