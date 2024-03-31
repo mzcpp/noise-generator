@@ -13,3 +13,4 @@ Controls:
 Sources:
   - https://adrianb.io/2014/08/09/perlinnoise.html
   - https://www.shadertoy.com/view/slB3z3
+  - https://thebookofshaders.com/12/
