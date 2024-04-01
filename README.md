@@ -1,6 +1,8 @@
 # noise-generator
 Noise generator with visualisation written using SDL2 library.
 
+Program to generate and visualize noise using various algorithms.
+
 Controls:
   - '1' to generate White noise.
   - '2' to generate 2D Perlin noise.
