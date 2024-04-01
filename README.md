@@ -18,5 +18,5 @@ Sources:
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZhZXJiYzF6cHFxMXBla3dxemt1ZWV1cHpjZWFwd2FjcTRremhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQio2fF3JlWHv4deRe/giphy.gif" alt="animated" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFvODU4bnNvczBxYnR4YmV2NWFrYWR3aHA1ZW40dWtjbHM1OXN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Ssz2szN7dVC91QIRf/giphy.gif" alt="animated" />
-<img src="https://i.imgur.com/f57ABCV.png"/>
-<img src="https://i.imgur.com/czBb1TF.png"/>
+<img src="img/perlin.png"/>
+<img src="img/worley.png"/>
