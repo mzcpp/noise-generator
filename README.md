@@ -16,3 +16,4 @@ Sources:
   - https://adrianb.io/2014/08/09/perlinnoise.html
   - https://www.shadertoy.com/view/slB3z3
   - https://thebookofshaders.com/12/
+  - https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/procedural-patterns-noise-part-1/introduction.html
