@@ -8,8 +8,6 @@ Controls:
   - '2' to generate 2D Perlin noise.
   - SHIFT + '2' to generate 1D Perlin noise.
   - '3' to generate 2D Worley noise.
-  - '4' to generate 2D Value noise.
-  - SHIFT + '4' to generate 1D Value noise.
   - 'r' to clear screen.
 
 Sources:
@@ -17,3 +15,8 @@ Sources:
   - https://www.shadertoy.com/view/slB3z3
   - https://thebookofshaders.com/12/
   - https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/procedural-patterns-noise-part-1/introduction.html
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZhZXJiYzF6cHFxMXBla3dxemt1ZWV1cHpjZWFwd2FjcTRremhrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mQio2fF3JlWHv4deRe/giphy.gif" alt="animated" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFvODU4bnNvczBxYnR4YmV2NWFrYWR3aHA1ZW40dWtjbHM1OXN2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Ssz2szN7dVC91QIRf/giphy.gif" alt="animated" />
+<img src="https://i.imgur.com/f57ABCV.png"/>
+<img src="https://i.imgur.com/czBb1TF.png"/>
