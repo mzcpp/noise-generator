@@ -71,14 +71,7 @@ void PerlinNoise::Generate1D()
 
         for (int y = 0; y < constants::screen_height; ++y)
         {
-            if (y >= height)
-            {
-                pixels_[y * constants::screen_width + screen_x] = GetColor(0xff, 0xff, 0xff, 0xff);
-            }
-            else
-            {
-                pixels_[y * constants::screen_width + screen_x] = GetColor(0x00, 0x00, 0x00, 0xff);
-            }
+            pixels_[y * constants::screen_width + screen_x] = (y >= height) ? GetColor(0xff, 0xff, 0xff, 0xff) : GetColor(0x00, 0x00, 0x00, 0xff);
         }
 
         ++screen_x;
