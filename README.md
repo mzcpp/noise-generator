@@ -1,7 +1,7 @@
 # noise-generator
 Noise generator with visualisation written using SDL2 library.
 
-Program to generate and visualize Gradient, Fractal and Cellular noise using various algorithms.
+Program to generate and visualize Gradient, Fractal and Cellular noises.
 
 Controls:
   - '1' to generate White noise.
