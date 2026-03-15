@@ -2,6 +2,8 @@
 #include "PerlinNoise.hpp"
 #include "Constants.hpp"
 
+#include <SDL2/SDL.h>
+
 #include <random>
 #include <iostream>
 #include <cmath>
