@@ -1,6 +1,8 @@
 #include "Noise.hpp"
 #include "WhiteNoise.hpp"
 
+#include <SDL2/SDL.h>
+
 #include <random>
 
 class Game;
